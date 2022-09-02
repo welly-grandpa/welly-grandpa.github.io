@@ -26,8 +26,6 @@ int foo() {
 ```
 
 </td>
-    </tr>
-    <tr>
 <td>
 
 ```c++
@@ -36,6 +34,8 @@ int foo() {
     return x;
 }
 </td>
+     </tr>
+    <tr>
 <td>
         $$ y=f(x).$$
 <\td>
