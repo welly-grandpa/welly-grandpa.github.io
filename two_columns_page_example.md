@@ -32,7 +32,7 @@ int foo() {
     int x = 4;
     return x;
 }
-
+    </td>
     
     
     
@@ -42,11 +42,11 @@ int foo() {
 <tr>
 <td>
         $$ y=f(x).$$
-<\td>
+</td>
 <td>
                 $$c=1+2.$$
- <\td>
-<\tr>
+ </td>
+</tr>
 
 
     
