@@ -21,7 +21,6 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
 </tr>
 <tr>
 <td>
-
 ```c++
 int foo() {
     int result = 4;
@@ -30,8 +29,7 @@ int foo() {
 ```
 
 </td>
-<td>
-    
+<td>    
 ```c++
 int foo() { 
     int x = 4;
