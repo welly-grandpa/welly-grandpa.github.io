@@ -33,3 +33,10 @@ int foo() {
     int x = 4;
     return x;
 }
+</td>
+<td>
+        $$ y=f(x).$$
+<\td>
+<td>
+                $$c=1+2.$$
+ <\td>
