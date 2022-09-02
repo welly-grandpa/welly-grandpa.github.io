@@ -38,9 +38,9 @@ int foo() {
     int x = 4;
     return x;
 }
-    </td>
-    </tr>
-    <tr>
+ </td>
+ </tr>
+ <tr>
         <td> d </td>
         <td> ks </td>
-    </tr>
+ </tr>
