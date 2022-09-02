@@ -5,14 +5,6 @@
 <th> This is an example page with two columns. </th>
 <th> 分栏页面的例子 </th>
 </tr>
-<tr>
-<td>
-        $$ y=f(x).$$
-<\td>
-<td>
-                $$c=1+2.$$
- <\td>
-<\tr>
 
 
 
