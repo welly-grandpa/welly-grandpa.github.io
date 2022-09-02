@@ -33,5 +33,16 @@ int foo() {
     return x;
 }
 
-    </table>
+<table>
+<tr>
+<td>
+        $$ y=f(x).$$
+<\td>
+<td>
+                $$c=1+2.$$
+ <\td>
+<\tr>
 
+
+    
+    
