@@ -41,7 +41,7 @@ int foo() {
 <table>
 <tr>
 <td>
-        $$ y=f(x).$$
+        \$\$ y=f(x).\$\$
 </td>
 <td>
                 $$c=1+2.$$
