@@ -21,21 +21,21 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
 </tr>
 <tr>
 <td>
+    
 ```c++
 int foo() {
     int result = 4;
     return result;
 }
 ```
-
 </td>
-<td>    
+<td>  
+    
 ```c++
 int foo() { 
     int x = 4;
     return x;
 }
-
 </td>
  </tr>
     
