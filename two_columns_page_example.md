@@ -1,5 +1,9 @@
 
 
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
+
 <table>
 <tr>
 <th> This is an example page with two columns. </th>
@@ -35,19 +39,6 @@ int foo() {
     </td>
     
     
-    
-    
-    
-<table>
-<tr>
-<td>
-         y=f(x).
-</td>
-<td>
-                c=1+2.
- </td>
-</tr>
-
-
+   
     
     
