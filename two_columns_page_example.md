@@ -33,6 +33,7 @@ int foo() {
     int x = 4;
     return x;
 }
+
 </td>
-     </tr>
+</tr>
 
