@@ -34,6 +34,5 @@ int foo() {
     return x;
 }
 
-</td>
-</tr>
+    </table>
 
