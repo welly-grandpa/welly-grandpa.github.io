@@ -13,13 +13,6 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}. $$
 
 
  
-    
- <table>
- <tr>
-        <td> d </td>
-        <td> ks </td>
- </tr>
-
 
 <table>
 <tr>
@@ -48,3 +41,10 @@ int foo() {
  </tr>
     
    
+    
+ <table>
+ <tr>
+        <td> d </td>
+        <td> ks </td>
+ </tr>
+
