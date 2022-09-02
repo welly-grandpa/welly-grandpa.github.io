@@ -4,4 +4,4 @@ Hi, this is Welly Grandpa. I'm documenting my learning notes here for my own ref
 
 
 
-<a href="two_columns_page_example.md"> A two-columns page example </a>
+<a href="two_columns_page_example.md"> A two-column page example </a>
