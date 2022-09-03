@@ -1,5 +1,5 @@
 
-
+This is how we put maths formula in md file. We need to use MathJax if we want to display maths formula in html directly. See test_page as an example.
 
 When $a \ne 0$, there are two solutions to  $ax^2 + bx + c = 0$ and they are 
 
